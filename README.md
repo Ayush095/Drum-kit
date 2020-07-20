@@ -1,2 +1,4 @@
 # drum-kit
-JAVASCRIPT,HTML,CSS,....commonsense
+ TECH USE :JAVASCRIPT,HTML,CSS,BOOSTRAP
+
+
