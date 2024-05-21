@@ -1,4 +1,4 @@
 # drum-kit
- TECH USE :JAVASCRIPT,HTML,CSS,BOOSTRAP
+Simple Drum Kit Setup With Sound Effects.
 
 
